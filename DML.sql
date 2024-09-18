@@ -66,12 +66,12 @@ INSERT INTO actividad_usuario (usuario_id, tipo_actividad, antiguedad_id, fecha)
 VALUES (3, 'Compra', 2, '2024-09-16');
 
 -- Inserciones para la tabla transaccion (Juan compra antigüedad a María)
-INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id, dinero) 
-VALUES ('2024-09-15', 2, 1, 1, 5000);
-INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id, dinero) 
-VALUES ('2024-09-16', 2, 3, 2, 12000);
-INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id, dinero) 
-VALUES ('2024-09-16', 3, 1, 3, 8000);
+INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id) 
+VALUES ('2024-09-15', 2, 1, 1);
+INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id) 
+VALUES ('2024-09-16', 2, 3, 2);
+INSERT INTO transaccion (fecha, vendedor_id, comprador_id, antiguedad_id) 
+VALUES ('2024-09-16', 3, 1, 3);
 
 -- Inserciones para la tabla precio_history
 INSERT INTO precio_history (antiguedad_id, price, date) VALUES (1, 5000, '2024-09-01');
