@@ -6,15 +6,15 @@
 
 ## Modelo Conceptual
 
-## ![conceptual_pushup_2_db_antiguedades](C:\Users\Mizamarzes\Downloads\conceptual_pushup_2_db_antiguedades.jpeg)
+## ![conceptual_pushup_2_db_antiguedades](https://github.com/Mizamarzes/pushup-2-db-antiguedades/blob/master/img/conceptual_pushup_2_db_antiguedades.jpeg)
 
 ## Modelo Logico
 
-![logico_pushup_2_db_antiguedades](C:\Users\Mizamarzes\Downloads\logico_pushup_2_db_antiguedades.png)
+![logico_pushup_2_db_antiguedades](https://github.com/Mizamarzes/pushup-2-db-antiguedades/blob/master/img/logico_pushup_2_db_antiguedades.png)
 
 ## Modelo Relacional
 
-![relacional_pushup_2_antiguedades_db](C:\Users\Mizamarzes\Downloads\relacional_pushup_2_antiguedades_db.png)
+![relacional_pushup_2_antiguedades_db](https://github.com/Mizamarzes/pushup-2-db-antiguedades/blob/master/img/relacional_pushup_2_antiguedades_db.png)
 
 ## Consultas para la Base de Datos del Negocio de Antigüedades
 
